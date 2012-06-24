@@ -130,7 +130,7 @@ show()/list()/find()/grep()は全てMemberオブジェクトを返すので、�
 
   Like `console.log()` but without the trailing newline.
 
-      require('sys').print('String with no newline');
+      require('util').print('String with no newline');
 
 
   { title: 'sys.print(string)' }
